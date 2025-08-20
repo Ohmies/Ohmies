@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hey, I'm Ohm ✨</h1>
+  <h3>Software Engineer & Creative Technologist.</h3>
+</div>
 
-<!--
-**Ohmies/Ohmies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a Software Engineer based in Bangkok 🇹🇭. I love to learn and understand how technology works at every level, from hardware to software. This passion drives me to create new solutions while also refining existing technologies to be even better. My goal is to create technology that is powerful, intuitive, and thoughtfully designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 My Philosophy: **To the daily craft of becoming better—as a builder, a learner, and a human—for the sake of what's possible.**
+- 🎯 The Goal: **To build things that last, to share knowledge that empowers, and to leave this world with more light than I found.**
+- 💬 A Simple Reminder: **"Real growth happens the moment I step outside my comfort zone."**
+
+---
+
+<p align="center">
+  <a href="[YOUR_PORTFOLIO_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+    <a href="[YOUR_GITHUB_URL]">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+    <a href="[YOUR_STACKOVERFLOW_URL]">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
