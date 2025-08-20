@@ -17,16 +17,16 @@ I'm a Software Engineer based in Bangkok 🇹🇭. I love to learn and understan
   <a href="[]">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-    <a href="[https://github.com/Ohmies]">
+    <a href="https://github.com/Ohmies">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <a href="[https://stackoverflow.com/users/31060337/ohmies]">
+    <a href="https://stackoverflow.com/users/31060337/ohmies">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/perapat-singpan-15b576284/]">
+  <a href="https://www.linkedin.com/in/perapat-singpan-15b576284/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[Ohmperapatsingpan.15@gmail.com]">
+  <a href="mailto:Ohmperapatsingpan.15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
