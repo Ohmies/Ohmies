@@ -14,7 +14,7 @@ I'm a Software Engineer based in Bangkok 🇹🇭. I love to learn and understan
 ---
 
 <p align="center">
-  <a href="[https://perapat-portfolio.vercel.app]">
+  <a href="https://perapat-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
     <a href="https://github.com/Ohmies">
